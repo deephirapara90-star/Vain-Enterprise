@@ -24,12 +24,12 @@ const Footer = () => {
                 <FaEnvelope className="text-white" />
 
 
-                <a href="mailto:viaanenterprise26@gmail.com" class="hover:text-[#00d2ff] transition-colors">viaanenterprise26@gmail.com</a>
+                <a href="mailto:viaanenterprise90@gmail.com" class="hover:text-[#00d2ff] transition-colors">viaanenterprise90@gmail.com</a>
               </div>
               <div className="flex items-center justify-center md:justify-start gap-2">
                 <FaPhone className="text-white rotate-90" />
 
-                <a href="tel:+919274000198" class="hover:text-[#00d2ff] transition-colors">+91 9274000198</a>
+                <a href="tel:+919274000198" class="hover:text-[#00d2ff] transition-colors">+91 9974000999</a>
               </div>
             </div>
           </div>
