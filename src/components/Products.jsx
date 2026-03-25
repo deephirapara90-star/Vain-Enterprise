@@ -1,7 +1,7 @@
 import React from "react";
-import d1 from "../assets/Lemon.webp"
+import d1 from "../assets/lemon.webp"
 import d2 from "../assets/banana.webp"
-import d3 from "../assets/Corn.webp"
+import d3 from "../assets/corn.webp"
 import d4 from "../assets/poteto.webp"
 import d5 from "../assets/food.webp"
 import d6 from "../assets/rice.webp"
@@ -27,7 +27,7 @@ const Products = () => {
         <div className="rounded-3xl overflow-hidden shadow-md hover:shadow-xl transition duration-300 hover:-translate-y-2">
           <img
             src={d1}
-            alt="Lemon"
+            alt="lemon"
             className="w-full h-48 object-cover"
           />
         </div>
