@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroSection from './HeroSection'
 import BrochureSection from './BrochureSection '
-import Products from './Products'
+import Products from "./Products";
 import QualitySection from './QualitySection'
 import Testimonials from './Testimonials '
 import Footer from './Footer'
